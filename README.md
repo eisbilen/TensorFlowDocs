@@ -5,7 +5,7 @@ Bu repository, TensorFlow dökümanlarının *Erdem İşbilen* tarafından Türk
 
 ## Pull Request #428 ile çevrimi tamamlanmış Jupyter Notebook'ları;
 
-[Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) /n
+[Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) n/
 
 -basic_classification.ipynb
 -basic_text_classification.ipynb
