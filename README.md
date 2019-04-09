@@ -3,11 +3,11 @@ Google TensorFlow Dökümanlarının Türkçe Çevirileri
 
 Bu repository, TensorFlow dökümanlarının *Erdem İşbilen* tarafından Türkçeye çevrilen kopyalarını içermektedir. Çevirisi tamamlanan dökümanlara aşağıdaki linkler üzerinden ulaşabilirsiniz.
 
-### Çevirisi tamamlanmış dökümanlar;
+### Çevirisi tamamlanmış dökümanlar
 
 #### Google TensorFlow Keras API ile makine öğrenmesini anlayalım ve kullanalım
 
-Aşağıda linkleri verilmiş olan Juypter Notebook'ları, Deep Learning with Python kitabından esinlenerek hazırlanmıştır. Bu yardımcı eğitim dökümanları, TensorFlow derin öğrenme modellerinin oluşturulması ve eğitiminde kullanılan yüksek-seviye Python API si tf.keras'ı kullanmaktadır. Keras ile ilgili daha fazla bildi edinmek için, TensorFlow Keras Guide 'a göz atabilirsiniz.
+Aşağıda linkleri verilmiş olan Juypter Notebook'ları, Deep Learning with Python kitabından esinlenerek hazırlanmıştır. Bu yardımcı eğitim dökümanları, TensorFlow derin öğrenme modellerinin oluşturulması ve eğitiminde kullanılan yüksek-seviye Python API si tf.keras'ı kullanmaktadır. Keras ile ilgili daha fazla bilgi edinmek için, TensorFlow Keras Guide'a göz atabilirsiniz.
 
 1. [Temel sınıflandırma](https://github.com/eisbilen/docs/blob/master/site/tr/tutorials/keras/basic_classification.ipynb)
 Bu yardımcı döküman, spor ayakkabısı ve gömlek gibi çeşitli giysi görüntülerini sınıflandırmak için bir sinir ağı modelini eğitir. 
