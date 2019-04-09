@@ -11,8 +11,7 @@ Bu yardımcı döküman, spor ayakkabısı ve gömlek gibi çeşitli giysi gör�
 2. [Metin sınıflandırma](https://github.com/eisbilen/docs/blob/master/site/tr/tutorials/keras/basic_text_classification.ipynb)
 Bu yardımcı döküman, yorum metinlerini kullanarak film yorumlarını olumlu veya olumsuz olarak sınıflandırmaktadır.
 
-3. [Regrasyon](https://github.com/eisbilen/docs/blob/regression/site/tr/tutorials/keras/basic_regression.ipynb)
-Regrasyon problemlerinde, olasılık veya fiyat gibi sürekli değişken olan çıktıyı tahmin etmeyi amaçlarız. Bu çalışma kitabı, 1970'lerin sonları ve 1980'lerin başlarında üretilmiş olan araçların yakıt verimliliğini (MPG) tahmin edebilecek bir model geliştirmek için klasik Auto MPG veri setini kullanmaktadır.
+3. [Regrasyon](https://github.com/eisbilen/docs/blob/regression/site/tr/tutorials/keras/basic_regression.ipynb)       Regrasyon problemlerinde, olasılık veya fiyat gibi sürekli değişken olan çıktıyı tahmin etmeyi amaçlarız. Bu çalışma kitabı, 1970'lerin sonları ve 1980'lerin başlarında üretilmiş olan araçların yakıt verimliliğini (MPG) tahmin edebilecek bir model geliştirmek için klasik Auto MPG veri setini kullanmaktadır.
 
 4. [Aşırı uyum ve yetersiz uyum](https://github.com/eisbilen/docs/blob/regression/site/tr/tutorials/keras/overfit_and_underfit.ipynb)
 
