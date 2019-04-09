@@ -12,4 +12,4 @@ Bu repository, TensorFlow dökümanlarının *Erdem İşbilen* tarafından Türk
 5. [Modellerin kaydedilmesi ve yüklenmesi](https://github.com/eisbilen/docs/blob/regression/site/tr/tutorials/keras/save_and_restore_models.ipynb)
 
 ## Destek Olmak İster misiniz?
-Çevirilere destek olmak istiyorsanız, aşağıdaki link üzerinden [Google TensorFlow Türçe Döküman Grubu](./basic_classification.ipynb)'na katılıp, çeviri talebinde bulunabilirsiniz.
+Çevirilere destek olmak istiyorsanız, aşağıdaki link üzerinden [Google TensorFlow Türçe Döküman Grubu]( https://groups.google.com/a/tensorflow.org/forum/#!forum/docs-tr)'na katılıp, çeviri talebinde bulunabilirsiniz.
