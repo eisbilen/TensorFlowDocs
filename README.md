@@ -1,9 +1,7 @@
-# TensorFlowDocs
-TensorFlow Dökümanlarının Türkçe Çevirileri
+# TensorFlowDocs - 2019
+Google TensorFlow Dökümanlarının Türkçe Çevirileri
 
-
-Bu repository, TensorDlow dökümanlarının Erdem İşbilen tarafından Türkçeye çevrilen kopyalarını içermektedir. Çeviri dökümanları aşağıdaki Pull Request'ler ile Google TensorFlow dökümantasyonu .
-
+Bu repository, TensorFlow dökümanlarının *Erdem İşbilen* tarafından Türkçeye çevrilen kopyalarını içermektedir. Çevirisi tamamlanan dökümanlar, aşağıdaki Pull Request'ler ile Google TensorFlow dökümantasyonuna aktarıl .
 
 ## Pull Request #428 ile çevrimi tamamlanmış Jupyter Notebook'ları;
 
@@ -12,3 +10,7 @@ Bu repository, TensorDlow dökümanlarının Erdem İşbilen tarafından Türkç
 -index.md
 
 ## Pull Request #428 ile çevrimi tamamlanmış Jupyter Notebook'ları;
+
+
+## Destek Olmak İster misiniz?
+Çevirilere destek olmak istiyorsanız, aşağıdaki link üzerinden *Türkçe Çeviri Grubuna *katılıp, çeviri talebinde bulunabilirsiniz.
